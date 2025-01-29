@@ -71,6 +71,9 @@ window#waybar {
   color: white;
 }
 
+#workspaces button.active {
+  color: red;
+}
 
 #clock{
   color: #5fd1fa;
@@ -95,7 +98,6 @@ window#waybar {
     animation-iteration-count: infinite;
     animation-direction: alternate;
 }
-
 
 @keyframes blink {
     to {
