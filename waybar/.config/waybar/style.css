@@ -1,6 +1,6 @@
 * {
     border: none;
-    font-size: 14px;
+    font-size: 15px;
     font-family: "JetBrainsMono Nerd Font,JetBrainsMono NF" ;
     min-height: 25px;
 }
@@ -8,6 +8,7 @@
 window#waybar {
   background: transparent;
   margin: 10px;
+  margin-bottom: 2px;
  }
 
 #custom-logo {
